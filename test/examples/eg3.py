@@ -6,3 +6,5 @@ course = '''
   Thank You,
   The support team
 '''
+
+print(course)
