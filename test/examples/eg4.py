@@ -5,3 +5,5 @@ print(message)
 
 msg = f'{first} [{last}] is a coder'
 #f'' is a formatted string
+
+print(msg)
