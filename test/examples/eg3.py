@@ -8,3 +8,8 @@ course = '''
 '''
 
 print(course)
+
+c = 'Python for Beginners'
+print(c[6])
+print(c[-1])
+print(c[0])
