@@ -15,3 +15,9 @@ print(c[-1])
 print(c[0])
 print(c[0:3])
 print(c[1:])
+print(c[:5])
+print(c[:])
+
+anotherC = c[:]
+
+print(anotherC)
