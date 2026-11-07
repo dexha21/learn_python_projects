@@ -10,4 +10,6 @@ print(msg)
 
 #String methods
 course = 'Python for Beginners'
-print(len(course))
+
+
+print(len(course)) #string length
