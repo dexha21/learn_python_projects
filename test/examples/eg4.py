@@ -7,3 +7,7 @@ msg = f'{first} [{last}] is a coder'
 #f'' is a formatted string
 
 print(msg)
+
+#String methods
+course = 'Python for Beginners'
+print(len(course))
