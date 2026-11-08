@@ -13,3 +13,10 @@ course = 'Python for Beginners'
 
 
 print(len(course)) #string length
+
+print(course.upper())
+print(course.lower())
+print(course.title())
+print(course.find("y"))
+print(course.replace("Be", "be"))
+print("for" in course)
