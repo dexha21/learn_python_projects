@@ -13,7 +13,7 @@ else:
 
 print(f'''Down Payment: ${down_payment}''')
 
-#Mash Solution
+#Mosh Solution
 price = 1000000
 has_good_credit = True
 

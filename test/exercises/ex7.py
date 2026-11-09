@@ -11,7 +11,7 @@ else:
   print('name looks good!')
 
 
-#Mash solution
+#Mosh solution
 
 name = ""
 
